@@ -1,6 +1,7 @@
 # Healthcare Analytics Dashboard
 
-![Screenshot 2025-06-21 012024](https://github.com/user-attachments/assets/9567a960-bd91-4a66-9eef-4e44a40e8af2)
+![image](https://github.com/user-attachments/assets/09c0bd2f-5606-45f7-9e02-fc6402816189)
+
 
 ## Built With:
 - Power BI
